@@ -1,0 +1,136 @@
+.container {
+  font-family: "Indie Flower", cursive;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 3px solid #c14ccc;
+  border-radius: 30px;
+}
+
+.current-location {
+  background: #b83b5e;
+  color: white;
+  font-size: 12px;
+  border-radius: 15px;
+  margin-top: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.favorites {
+  background: #b83b5e;
+  color: white;
+  font-size: 12px;
+  border-radius: 15px;
+  margin-top: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.search-box {
+  margin-left: 50px;
+  display: inline;
+}
+.search-button {
+  font-size: 14px;
+  border-radius: 15px;
+  margin-left: 10px;
+  display: inline;
+}
+
+.today {
+  color: #f08a5d;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 60px;
+}
+.times {
+  color: #f08a5d;
+  font-size: 30px;
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin-top: 20px;
+}
+.city {
+  display: block;
+  text-align: center;
+  border: 3px solid #c14ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #f9d0fd;
+}
+.card-current {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  background: #c14ccc;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.card-time {
+  font-size: 30px;
+}
+.card-temperature {
+  font-size: 40px;
+  border: none;
+}
+.sun {
+  text-align: center;
+  font-size: 80px;
+  padding-top: 10px;
+  margin: 0;
+}
+.card-minandmax {
+  text-align: center;
+  background: #c14ccc;
+  border-radius: 20px;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+.unit {
+  display: inline-block;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background: #b83b5e;
+  color: white;
+  border-radius: 100%;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.details {
+  margin-top: 10px;
+  color: #f08a5d;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.card-days {
+  display: block;
+  margin: 0 auto;
+  color: #c14ccc;
+  border-radius: 60px;
+  text-align: center;
+  border: 2px solid #c14ccc;
+  margin-top: 40px;
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+p {
+  font-size: 25px;
+}
+.card {
+  border: none;
+  margin: 1px;
+}
