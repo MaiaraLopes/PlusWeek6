@@ -20,7 +20,7 @@ function showDayTime() {
     "Sep",
     "Oct",
     "Nov",
-    "Dec"
+    "Dec",
   ];
   let month = months[now.getMonth()];
 
