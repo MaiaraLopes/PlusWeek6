@@ -134,3 +134,7 @@ p {
   border: none;
   margin: 1px;
 }
+#code-link {
+  font-size: 15px;
+  text-align: center;
+}
